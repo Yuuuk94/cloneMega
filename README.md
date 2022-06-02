@@ -7,7 +7,7 @@ HTML, CSS/SCSS, JavaScript/jQuery
 
 ### demo : https://learningfrontend2022.github.io/cloneMega/
 
-##### 분석보기	: https://docs.google.com/presentation/d/1dl3wZvm6g5IJBasCjqf4pX0QZaRuS5CFcLBtw18yxvU/edit?usp=sharing
+##### 기획 및 분석보기	: https://docs.google.com/presentation/d/1dl3wZvm6g5IJBasCjqf4pX0QZaRuS5CFcLBtw18yxvU/edit?usp=sharing
 
 
 ## 개요
