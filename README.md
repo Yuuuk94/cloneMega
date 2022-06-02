@@ -18,7 +18,7 @@ HTML, CSS/SCSS, JavaScript/jQuery
 *	사이트 제작에서는 header, footer, 메인 페이지, 로그인 창 및 회원가입 페이지를 담당하였습니다.
 
 *	팀원들에게 Fork, Pull requests, Fetch upstream 등의 깃허브 사용법을 공유하고, 두 명씩 짝지어 상호 보완하는 구조로 팀을 구성해 서로 간의 의사소통이 활성화될 수 있도록 했습니다.
-*	
+
 
 ## 기능
 *	헤더 메뉴 토글
@@ -28,12 +28,6 @@ HTML, CSS/SCSS, JavaScript/jQuery
 *	메인 배너 API 연동
 
 *	검색창 영화순위
-
-
-## 역할
-* 팀장, 기획, 제작을 담당하여 프로젝트 파일 트리 배포 및 깃허브 관리
-
-* header, footer, 메인 페이지, 로그인 창, 회원가입 페이지
 
 
 ## 분석 및 보완 이슈
